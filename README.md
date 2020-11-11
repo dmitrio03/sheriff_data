@@ -8,7 +8,8 @@ This dataset comes from the Reflective Democracy Campaign, a nonprofit that "inv
 The Reflective Democracy Campaign and the Center for Technology and Civic Life have partnered to produce datasets examining the demographics of 3,000+ elected sheriffs; 2,800+ elected prosecutors; and candidates for federal, state, and local offices in 2012, 2014, 2016, and 2018.
 
 This particular dataset examines sheriffs in 2,300 counties and other jurisdictions in the US in 2018. Findings show that there are very few jurisdictions with Hispanic, Asian, or black sheriffs. There are also very few women who hold the title. The data is merged with US Census Bureau estimates for 2018 for a more complete demographic picture.
-This data comes from https://wholeads.us/ and https://console.cloud.google.com/marketplace/product/united-states-census-bureau/us-census-data?filter=solution-type:dataset&q=census&id=2c089839-2b4a-477a-962b-4a8b730d0a12
+This data comes from https://wholeads.us/ 
+and https://console.cloud.google.com/marketplace/product/united-states-census-bureau/us-census-data?filter=solution-type:dataset&q=census&id=2c089839-2b4a-477a-962b-4a8b730d0a12
 
 ## __Usefulness__
 
