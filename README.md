@@ -20,12 +20,6 @@ This particular dataset examines sheriffs in 2,300 counties and other jurisdicti
 ![image](https://storage.googleapis.com/sheriff_data/sheriff_gender.png)
 ![image](https://storage.googleapis.com/sheriff_data/class_dist.png)
 ![image](https://storage.googleapis.com/sheriff_data/corr_chart.png)
-![image](https://storage.googleapis.com/sheriff_data/PCA.png)
-- PCA
-![image](https://storage.googleapis.com/sheriff_data/UMAP.png)
-- UMAP
-![image](https://storage.googleapis.com/sheriff_data/t-SNE.png)
-- t-SNE
 
 
 - Notes
@@ -34,9 +28,7 @@ This particular dataset examines sheriffs in 2,300 counties and other jurisdicti
 	* The majority of sheriffs (47%) are Republican, 90% are white and 97% are male.
 	* PCA did not work well to separate political categories. With t-SNE and UMAP there are three distinct categories with some small outlying clusters.
 
-<blockquote>Low-income, college-educated 20-somethings, many of whom live in urban areas, are voting more like rich, college-educated people who tend to live in the inner suburbs that are moving left.
-
-Derek Thompson, <a href="https://www.theatlantic.com/ideas/archive/2020/11/2020-election-results-prove-density-destiny/617027/" title=”Atlantic”><i>The Atlantic</i></a>
+>Low-income, college-educated 20-somethings, many of whom live in urban areas, are voting more like rich, college-educated people who tend to live in the inner suburbs that are moving left.Derek Thompson, [*The Atlantic*](https://www.theatlantic.com/ideas/archive/2020/11/2020-election-results-prove-density-destiny/617027/)
 ----
 
 ## Integrations
@@ -116,3 +108,5 @@ For scoring, I compared K-Means and DBScan on non-winsorized and winsorized data
 Any contributions are more than welcome!
 
 Feel free to leave me a message on Git or email me at mcclure.dean@gmail.com
+
+
