@@ -16,15 +16,22 @@ This particular dataset examines sheriffs in 2,300 counties and other jurisdicti
 
 ## Key Features
 
+![image](https://storage.googleapis.com/sheriff_data/sheriff_race.png)
+![image](https://storage.googleapis.com/sheriff_data/sheriff_gender.png)
+![image](https://storage.googleapis.com/sheriff_data/class_dist.png)
 ![image](https://storage.googleapis.com/sheriff_data/corr_chart.png)
 ![image](https://storage.googleapis.com/sheriff_data/PCA.png)
+- PCA
 ![image](https://storage.googleapis.com/sheriff_data/UMAP.png)
+- UMAP
 ![image](https://storage.googleapis.com/sheriff_data/t-SNE.png)
+- t-SNE
 
 
 - Notes
 	* EDA/Analysis shows a vast discrepancy at the county level in terms of education, housing occupancy, employment, and family makeup.
 	* There are three basic categories of sheriff leadership: independent, Democrat and Republican.
+	* The majority of sheriffs (47%) are Republican, 90% are white and 97% are male.
 	* PCA did not work well to separate political categories. With t-SNE and UMAP there are three distinct categories with some small outlying clusters.
 
 <blockquote>Low-income, college-educated 20-somethings, many of whom live in urban areas, are voting more like rich, college-educated people who tend to live in the inner suburbs that are moving left.
@@ -53,11 +60,10 @@ It never misclassifies between the parties, it only classifies them as outliers.
 It looks like the most inaccurate prediction is the Democratic party, with 289 accurately placed but 306 categorized as outliers.
 
 |	|-1|	0|	1|	2|
-|Official Party	|
 |-------|---|----|-------|-------|			
-|Democratic Party|	306|	0|	289|	0|
+|Democratic Party|306|	0|	289|	0|
 |Independent|	290|	0|	0|	375|
-|Republican|	241|	867	0|	0|PC
+|Republican|	241|	867	0|	0|
 
 ### Analyzing Clusters
 
@@ -110,4 +116,3 @@ For scoring, I compared K-Means and DBScan on non-winsorized and winsorized data
 Any contributions are more than welcome!
 
 Feel free to leave me a message on Git or email me at mcclure.dean@gmail.com
-
