@@ -57,7 +57,7 @@ It looks like the most inaccurate prediction is the Democratic party, with 289 a
 |-------|---|----|-------|-------|			
 |Democratic Party|306|	0|	289|	0|
 |Independent|	290|	0|	0|	375|
-|Republican|	241|	867	0|	0|
+|Republican|	241|	867|	0|	0|
 
 ### Analyzing Clusters
 
