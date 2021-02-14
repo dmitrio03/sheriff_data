@@ -49,8 +49,6 @@ This particular dataset examines sheriffs in 2,300 counties and other jurisdicti
 
 A y-crosstab in unsupervised learning runs what is similar to a confusion matrix with supervised learning. This contingency table tells us how many fall into the outlier category (-1), the Democratic Party (1), Independent (2), and Republican (0). This is using DBScan.
 
-It never misclassifies between the parties, it only classifies them as outliers.
-
 |	|-1|	0|	1|	2|
 |-------|---|----|-------|-------|			
 |Democratic Party|306|	0|	289|	0|
