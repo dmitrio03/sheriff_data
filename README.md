@@ -29,7 +29,7 @@ This particular dataset examines sheriffs in 2,300 counties and other jurisdicti
 	* PCA did not work well to separate political categories. With t-SNE and UMAP there are three distinct categories with some small outlying clusters.
 
 >Low-income, college-educated 20-somethings, many of whom live in urban areas, are voting more like rich, college-educated people who tend to live in the inner suburbs that are moving left.
-
+> 
 >Derek Thompson, [*The Atlantic*](https://www.theatlantic.com/ideas/archive/2020/11/2020-election-results-prove-density-destiny/617027/)
 
 ----
