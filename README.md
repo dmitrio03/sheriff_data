@@ -51,8 +51,6 @@ A y-crosstab in unsupervised learning runs what is similar to a confusion matrix
 
 It never misclassifies between the parties, it only classifies them as outliers.
 
-It looks like the most inaccurate prediction is the Democratic party, with 289 accurately placed but 306 categorized as outliers.
-
 |	|-1|	0|	1|	2|
 |-------|---|----|-------|-------|			
 |Democratic Party|306|	0|	289|	0|
