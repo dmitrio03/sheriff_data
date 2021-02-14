@@ -91,7 +91,7 @@ The means of the DBScan clusters are shown for each feature. The difference betw
 
 For scoring, I compared K-Means and DBScan on non-winsorized and winsorized data: 
 
-* The adjusted rand-index score of the K-Means solution: 0.0632480796488733
+* Adjusted rand-index score of the K-Means solution: 0.0632480796488733
 * The silhouette score of the K-Means solution: 0.14460997927860114
 * Adjusted Rand Index of the DBSCAN solution: 0.4867411296451129
 * The silhouette score of the DBSCAN solution: 0.01937317159934826
