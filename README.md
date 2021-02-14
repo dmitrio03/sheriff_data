@@ -1,7 +1,7 @@
 
 # US Sheriff Political Clustering
 
-[**Dataset-1**](https://wholeads.us/%C2%A0) | [**Dataset-2**](https://console.cloud.google.com/marketplace/product/united-states-census-bureau/us-census-data?filter=solution-type:dataset&q=census&id=2c089839-2b4a-477a-962b-4a8b730d0a12) 
+[**Dataset 1**](https://wholeads.us/%C2%A0) | [**Dataset 2**](https://console.cloud.google.com/marketplace/product/united-states-census-bureau/us-census-data?filter=solution-type:dataset&q=census&id=2c089839-2b4a-477a-962b-4a8b730d0a12) 
 
 The sheriff dataset (**Dataset 1**) comes from the Reflective Democracy Campaign, a nonprofit that "investigates and the demographics of power in the United States. The data helps to prove that white male 'electability' is a myth, and that voters want women of all races and men of color to represent them. Their research shines a light on both the recent waves of victories by candidates who reflect the American people, and the structural barriers that still prevent a fair distribution of political power."
 
