@@ -83,7 +83,7 @@ The means of the DBScan clusters are shown for each feature. The difference betw
 
 * __[mobile_homes_pct]__ - Counties with a high number of households being mobile homes or trailerhave a higher likelihood of Democrat sheriffs. 
 
-* __[unemployed]__ - Unemployment is highest in counties with Democrat mayors.
+* __[unemployed]__ - Unemployment is highest in counties with Democrat sheriffs.
 
 * __[no_degree]__ - There are 3% more people without degrees in counties with Democrat sheriffs than Republican or Independent counties.
 
